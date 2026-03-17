@@ -1,6 +1,0 @@
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: inf-batch-job-config
-data:
-  BATCH_TYP: JAVABATCH

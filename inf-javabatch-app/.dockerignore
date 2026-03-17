@@ -1,0 +1,7 @@
+# Ignore everything by default
+**
+
+# Include only what runtime-image build needs
+!Dockerfile
+!build/
+!build/*-runner.jar
